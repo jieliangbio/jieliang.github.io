@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 header:
   image: header10.JPG
-  caption: " "
+  caption: "Lake Dagze Co in Tibetan Plateau"
 ---
 
 {% if author.googlescholar %}
@@ -16,22 +16,24 @@ header:
 
 ## In review / preprints / in press under
 
-21) **Liang, J.**,. (2024). Refining paleothermometers: microbial ecology reveals temperature discrepancies in lacustrine bacterial lipid reconstructions. *Communications earth*.In review.
+22) **Liang, J.**,.  Refining paleothermometers: microbial ecology reveals temperature discrepancies in lacustrine bacterial lipid reconstructions. 2024.Prepared.
 
 ## Published
 
 ### 2024
 
+21) Cindy De Jonge,  Francien Peterse,  Klaas G. J. Nierop,  Thomas M. Blattmann,  Marcelo Alexandre,  Salome Ansanay-Alex,  Thomas Austin,  Mathieu Babin,  Edouard Bard,  Thorsten Bauersachs,  Jerome Blewett,  Brenna Boehman,  Isla S. Castañeda,  Junhui Chen,  Martina L. G. Conti,  Sergio Contreras,  Julia Cordes,  Nina Davtian,  Bart van Dongen,  Bella Duncan,  Felix J. Elling,  Valier Galy,  Shaopeng Gao,  Jens Hefter,  Kai-Uwe Hinrichs,  Mitchell R. Helling,  Mariska Hoorweg,  Ellen Hopmans,  Juzhi Hou,  Yongsong Huang,  Arnaud Huguet,  Guodong Jia,  Cornelia Karger,  Brendan J. Keely,  Stephanie Kusch,  Hui Li,  **Liang, J.**,  Julius S. Lipp,  Weiguo Liu,  Hongxuan Lu,  Kai Mangelsdorf,  Hayley Manners,  Alfredo Martinez Garcia,  Guillemette Menot,  Gesine Mollenhauer,  B. David A. Naafs,  Sebastian Naeher,  Lauren K. O'Connor,  Ethan M. Pearce,  Ann Pearson,  Zhiguo Rao,  Marta Rodrigo-Gámiz,  Chris Rosendahl,  Frauke Rostek,  Rui Bao,  Prasanta Sanyal,  Florence Schubotz,  Wesley Scott,  Rahul Sen,  Appy Sluijs,  Rienk Smittenberg,  Ioana Stefanescu,  Jia Sun,  Paul Sutton,  Jess Tierney,  Eduardo Tejos,  Joan Villanueva,  Huanye Wang,  Josef Werne,  Masanobu Yamamoto,  Huan Yang,  Aifeng Zhou. 2023.Interlaboratory comparison of branched GDGT temperature and pH proxies using soils and lipid extracts. *Geochemistry, Geophysics, Geosystems*, 25, e2024GC011583. [https://doi.org/10.1029/2024GC011583]
 
 ### 2023
 
-20) **Liang, J.**,Nora Richter, Haichao Xie, Boyang Zhao, Guicai Si, Jian Wang, Juzhi Hou, Gengxin Zhang, and James M. Russell. "Branched glycerol dialkyl glycerol tetraether (brGDGT) distributions influenced by bacterial community composition in various vegetation soils on the Tibetan Plateau." Palaeogeography, Palaeoclimatology, Palaeoecology 611 (2023): 111358.
+20) **Liang, J.**,Nora Richter, Haichao Xie, Boyang Zhao, Guicai Si, Jian Wang, Juzhi Hou, Gengxin Zhang, and James M. Russell, 2023. "Branched glycerol dialkyl glycerol tetraether (brGDGT) distributions influenced by bacterial community composition in various vegetation soils on the Tibetan Plateau." *Palaeogeography, Palaeoclimatology, Palaeoecology* 611,111358.
 
-20) Yao, Yuan, Lu Wang, Yongsong Huang, **Liang, J.**, Richard S. Vachula, Yanjun Cai, and Hai Cheng. Pre‐Industrial (1750–1850 CE) Cold Season Warmth in Northeastern China. Geophysical Research Letters 50, no. 10 (2023): e2023GL103591.
+20) Yao, Yuan, Lu Wang, Yongsong Huang, **Liang, J.**, Richard S. Vachula, Yanjun Cai, and Hai Cheng, 2023. Pre‐Industrial (1750–1850 CE) Cold Season Warmth in Northeastern China. *Geophysical Research Letters* 50 (10), e2023GL103591.
 
-19) Yao, Yuan, Lu Wang, Xiangzhong Li, Hai Cheng, Yanjun Cai, Richard S. Vachula, **Liang, J.** et al. Unexpected cold season warming during the Little Ice Age on the northeastern Tibetan Plateau. Communications Earth & Environment 4, no. 1 (2023): 182.
+19) Yao, Yuan, Lu Wang, Xiangzhong Li, Hai Cheng, Yanjun Cai, Richard S. Vachula, **Liang, J.** , 2023. Unexpected cold season warming during the Little Ice Age on the northeastern Tibetan Plateau. Communications Earth & Environment 4 (2), 182.
 
-18) Zhao, Boyang, James M. Russell, Victor C. Tsai, Ansis Blaus, Meredith C. Parish,  **Liang, J.**, Alexander Wilk, Xiaojing Du, and Mark B. Bush. "Evaluating global temperature calibrations for lacustrine branched GDGTs: Seasonal variability, paleoclimate implications, and future directions." Quaternary Science Reviews 310 (2023): 108124.
+18) Zhao, Boyang, James M. Russell, Victor C. Tsai, Ansis Blaus, Meredith C. Parish,  **Liang, J.**, Alexander Wilk, Xiaojing Du, and Mark B. Bush., 2023.Evaluating global temperature calibrations for lacustrine branched GDGTs: Seasonal variability, paleoclimate implications, and future directions. *Quaternary Science Reviews* 310 : 108124.
+
 ### 2022
 
 17) **Liang, J.**, Guo, Y., Xie, H.*, Hou, J., 2022. Calibration and application of branched GDGTs to Tibetan lake sediments: the influence of temperature on the fall of the Guge Kingdom in Western Tibet, China. Paleoceanography and Paleoclimatology, https://doi.org/10.1029/2021PA004393
@@ -40,7 +42,7 @@ header:
 
 ### 2021
 
-15) **Liang, J.**, Lupien, R., Xie, H., Vachula, R., Stevenson, M.,…& Hou, J.*, Russell, J.*, 2021. Lake ecosystem on the Qinghai–Tibetan Plateau severely altered by climatic warming and human activity.Palaeogeography, Palaeoclimatology, Palaeoecology, 110509.[https://www.sciencedirect.com/science/article/abs/pii/S0031018221002947]
+15) **Liang, J.**, Lupien, R., Xie, H., Vachula, R., Stevenson, M.,…& Hou, J., Russell, J., 2021. Lake ecosystem on the Qinghai–Tibetan Plateau severely altered by climatic warming and human activity.Palaeogeography, Palaeoclimatology, Palaeoecology, 110509.[https://www.sciencedirect.com/science/article/abs/pii/S0031018221002947]
 
 14) Xie, H., **Liang, J.**, Vachula, R.S., Russell, J.M., Chen, S., Guo, M., Wang, X., Huang, X.*, Chen, F., 2021. Changes in the hydrodynamic intensity of Bosten Lake and its impact on early human settlement in the northeastern Tarim Basin, Arid Central Asia. Palaeogeography, Palaeoclimatology, Palaeoecology, 110499.
 
@@ -57,7 +59,7 @@ header:
 
 ### 2019
 
-9) **Liang, J.**, Russell, J.M., Xie, H., Lupien, R., Si, G., Wang, J., Hou, J., Zhang, G.*, 2018. Vegetation effects on temperature calibrations of branched glycerol dialkyl glycerol tetraether (brGDGTs) in soils. Organic Geochemistry ,127, 1-11.
+9) **Liang, J.**, Russell, J.M., Xie, H., Lupien, R., Si, G., Wang, J., Hou, J., Zhang, G., 2018. Vegetation effects on temperature calibrations of branched glycerol dialkyl glycerol tetraether (brGDGTs) in soils. Organic Geochemistry ,127, 1-11.
 
 8) Feng, X., Zhao, C., D'Andrea, W.J., **Liang, J.**, Zhou, A., Shen, J., 2019. Temperature fluctuations during the Common Era in subtropical southwestern China inferred from brGDGTs in a remote alpine lake. Earth and Planetary Science Letters 510, 26-36.
 
@@ -73,7 +75,7 @@ header:
 
 ### 2016
 
-4) **Liang, J**., Li, D., Wang, M., Zhang, X., Hou, J.*, 2016. Application of orthogonal design to the extraction and HPLC analysis of sedimentary pigments from lakes of the Tibetan Plateau. Science China Earth Sciences, 59, 1195-1205.
+4) **Liang, J**., Li, D., Wang, M., Zhang, X., Hou, J., 2016. Application of orthogonal design to the extraction and HPLC analysis of sedimentary pigments from lakes of the Tibetan Plateau. Science China Earth Sciences, 59, 1195-1205.
 
 3) **Liang, J**.,Hou, J, Li, D, Wang M, 2016. Review on investigating changes in lake ecosystems using sedimentary pigments. Quaternary Sciences (in Chinese), doi: 10.11928/j.issn.1001-7410.2016.03
 
