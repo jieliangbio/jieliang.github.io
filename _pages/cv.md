@@ -22,9 +22,9 @@ redirect_from:
 **Postdoctoral researcher** (2020-2022)
 *[Institute of Tibetan Plateau Research,Chinese Academy of Sciences](https://www.awi.de/en/), Beijing, China*
 
-
 **Guest Researcher** (2017-2019)
-*Department of Geosciences, Bronwn university, USA*
+*Department of Earth, Environmental and Planetary Sciences, Brown University, Providence, RI 02912, USA.*
+
 - 2-year stay funded by the [China Scholarship Council](https://chinascholarshipcouncil.com/)
 
 
@@ -69,7 +69,6 @@ redirect_from:
   * Machine learning 
   * Geographic Information Systems (QGIS)
   
-
 * Field and lab work
   * Planning and coordination of field work
   * Lipid Extraction and Purification

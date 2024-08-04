@@ -16,7 +16,7 @@ header:
 
 ## In review / preprints / in press under
 
-22) **Liang, J.**,.  Refining paleothermometers: microbial ecology reveals temperature discrepancies in lacustrine bacterial lipid reconstructions. 2024.Prepared.
+22) **Liang, J.**,.  Refining paleothermometers: microbial ecology reveals temperature discrepancies in lacustrine bacterial lipid reconstructions. 2024. CEE under-review.
 
 ## Published
 
