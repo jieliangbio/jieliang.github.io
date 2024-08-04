@@ -25,7 +25,7 @@ redirect_from:
 **Guest Researcher** (2017-2019)
 *Department of Earth, Environmental and Planetary Sciences, Brown University, Providence, RI 02912, USA.*
 
-- 2-year stay funded by the [China Scholarship Council](https://chinascholarshipcouncil.com/)
+2-year stay funded by the [China Scholarship Council](https://chinascholarshipcouncil.com/)
 
 
 **Doctoral Researcher** (2013 - 2019)
