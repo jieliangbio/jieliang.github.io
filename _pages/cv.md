@@ -37,11 +37,11 @@ redirect_from:
 
 ## Academic Education
 
-**Ph.D. in Geography** (2013 - 2019)
+**Ph.D. in Management** (2013 - 2019)
 *Institute of Tibetan Plateau Research,Chinese Academy of Sciences*, China
 
 **B.Sc. in Physics** (2007 - 2011)
-*Tian Jin University , China*
+*TianJin University , China*
 
 
 ## Awards and Grants
