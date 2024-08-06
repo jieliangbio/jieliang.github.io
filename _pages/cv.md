@@ -39,8 +39,6 @@ redirect_from:
 
 **Ph.D. in Geography** (2013 - 2019)
 *Institute of Tibetan Plateau Research,Chinese Academy of Sciences*, China
-- [Thesis]: "The response of lake ecosystems in central Tibetan Plateau to climate change and human activities over the past 12,000 years"
-
 
 **B.Sc. in Physics** (2007 - 2011)
 *Tian Jin University , China*
