@@ -16,11 +16,15 @@ header:
 
 ## In review / preprints / in press under
 
-22) **Liang, J.**,.  Refining paleothermometers: microbial ecology reveals temperature discrepancies in lacustrine bacterial lipid reconstructions. 2024. CEE under-review.
+24. **Liang, J.**,.  Mitigating the edge effect in paleoclimate reconstruction under no-analog environmental and eco-physiological conditions. 2024. *In preparation*.
 
 ## Published
 
 ### 2024
+
+23. **Liang, J.**, M. Chevalier, K. Liu, A. Perfumo, M. Wang, H. Xie, J. Hou, U. Herzschuh, and F. Chen, 2024, Discrepancies in lacustrine bacterial lipid temperature reconstructions explained by microbial ecology, Communications Earth & Environment, 5(1), 759.
+
+22. Liu, L., N. Wang, Y. Zhang, **Liang, J.**, J. Ni, and X. Cao, 2024, Spatial and temporal variations of vegetation cover on the central and eastern Tibetan Plateau since the Last glacial period, Global and Planetary Change, 240, 104536.
 
 21) Cindy De Jonge,  Francien Peterse,  Klaas G. J. Nierop,  Thomas M. Blattmann,  Marcelo Alexandre,  Salome Ansanay-Alex,  Thomas Austin,  Mathieu Babin,  Edouard Bard,  Thorsten Bauersachs,  Jerome Blewett,  Brenna Boehman,  Isla S. Castañeda,  Junhui Chen,  Martina L. G. Conti,  Sergio Contreras,  Julia Cordes,  Nina Davtian,  Bart van Dongen,  Bella Duncan,  Felix J. Elling,  Valier Galy,  Shaopeng Gao,  Jens Hefter,  Kai-Uwe Hinrichs,  Mitchell R. Helling,  Mariska Hoorweg,  Ellen Hopmans,  Juzhi Hou,  Yongsong Huang,  Arnaud Huguet,  Guodong Jia,  Cornelia Karger,  Brendan J. Keely,  Stephanie Kusch,  Hui Li,  **Liang, J.**,  Julius S. Lipp,  Weiguo Liu,  Hongxuan Lu,  Kai Mangelsdorf,  Hayley Manners,  Alfredo Martinez Garcia,  Guillemette Menot,  Gesine Mollenhauer,  B. David A. Naafs,  Sebastian Naeher,  Lauren K. O'Connor,  Ethan M. Pearce,  Ann Pearson,  Zhiguo Rao,  Marta Rodrigo-Gámiz,  Chris Rosendahl,  Frauke Rostek,  Rui Bao,  Prasanta Sanyal,  Florence Schubotz,  Wesley Scott,  Rahul Sen,  Appy Sluijs,  Rienk Smittenberg,  Ioana Stefanescu,  Jia Sun,  Paul Sutton,  Jess Tierney,  Eduardo Tejos,  Joan Villanueva,  Huanye Wang,  Josef Werne,  Masanobu Yamamoto,  Huan Yang,  Aifeng Zhou. 2024.Interlaboratory comparison of branched GDGT temperature and pH proxies using soils and lipid extracts. *Geochemistry, Geophysics, Geosystems*, 25, e2024GC011583.[link] (https://doi.org/10.1029/2024GC011583)
 
