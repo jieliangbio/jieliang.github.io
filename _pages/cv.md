@@ -14,7 +14,7 @@ redirect_from:
 
 ## 🧪 Scientific Positions and Experience
 
-**Postdoctoral Researcher** (2023–Present)  
+**Postdoctoral Researcher** (2023–2025)  
 *[Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research](https://www.awi.de/en/), Potsdam, Germany*  
 
 **Postdoctoral Researcher** (2020–2022)  

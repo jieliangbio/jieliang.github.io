@@ -27,7 +27,7 @@ header:
 
 ### 2025
 
-	26. Weiß, J.F., Herzschuh, U., Müller, J., **Liang, J.**, Vorrath, M.-E., Perfumo, A., Stoof-Leichsenring, K.R., 2025. Carbon drawdown by algal blooms during Antarctic Cold Reversal from sedimentary ancient DNA. *Nature Geoscience* 18, 901-908.
+26. Weiß, J.F., Herzschuh, U., Müller, J., **Liang, J.**, Vorrath, M.-E., Perfumo, A., Stoof-Leichsenring, K.R., 2025. Carbon drawdown by algal blooms during Antarctic Cold Reversal from sedimentary ancient DNA. *Nature Geoscience* 18, 901-908.
 
 ### 2024
 
