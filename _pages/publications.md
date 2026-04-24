@@ -97,4 +97,4 @@ header:
 ### 2015
 
 1) Li, X., **Liang, J**., Hou, J.*, Zhang, W., 2015. Centennial-scale climate variability during the past 
-2000 years on the central Tibetan Plateau. The Holocene, 25, 892-899
+2000 years on the central Tibetan Plateau. *The Holocene*, 25, 892-899
