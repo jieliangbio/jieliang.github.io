@@ -14,19 +14,29 @@ header:
 
 {% include base_path %}
 
-## In review / preprints / in press under
+## {%In review / preprints / in press under%}
 
-24) **Liang, J.**,.  Mitigating the edge effect in paleoclimate reconstruction under no-analog environmental and eco-physiological conditions. 2024. *In preparation*.
+
 
 ## Published
 
+### 2026
+
+26. **Liang, J**.*, Liu, X., Perfumo, A., Yang, L., Hou, J., Xie, H., Herzschuh, U., Chen, F., 2026. Mitigating edge effects in paleoclimate reconstructions: a comprehensive review and bias assessment of soil brGDGT-based temperature reconstructions. *Earth-Science Reviews* 274, 105393.
+
+ 	25. Xie, H., Ma, S., Li, J., Dilanchi, E.F., Chen, S., Lahijani, H.A.K., Khormali, F., **Liang, J.***, Chen, J., 2026. Decadal hydroclimate fluctuations recorded in lake sediments from northeastern Iran over the past 1350 years. *Palaeogeography, Palaeoclimatology, Palaeoecology* 690, 113701.
+
+### 2025
+
+	24. Weiß, J.F., Herzschuh, U., Müller, J., **Liang, J.**, Vorrath, M.-E., Perfumo, A., Stoof-Leichsenring, K.R., 2025. Carbon drawdown by algal blooms during Antarctic Cold Reversal from sedimentary ancient DNA. *Nature Geoscience* 18, 901-908.
+
 ### 2024
 
-23) **Liang, J.**, M. Chevalier, K. Liu, A. Perfumo, M. Wang, H. Xie, J. Hou, U. Herzschuh, and F. Chen, 2024, Discrepancies in lacustrine bacterial lipid temperature reconstructions explained by microbial ecology, Communications Earth & Environment, 5(1), 759.
+23) **Liang, J.**, M. Chevalier, K. Liu, A. Perfumo, M. Wang, H. Xie, J. Hou, U. Herzschuh, and F. Chen, 2024, Discrepancies in lacustrine bacterial lipid temperature reconstructions explained by microbial ecology, *Communications Earth & Environment*, 5(1), 759.
 
-22) Liu, L., N. Wang, Y. Zhang, **Liang, J.**, J. Ni, and X. Cao, 2024, Spatial and temporal variations of vegetation cover on the central and eastern Tibetan Plateau since the Last glacial period, Global and Planetary Change, 240, 104536.
+22) Liu, L., N. Wang, Y. Zhang, **Liang, J.**, J. Ni, and X. Cao, 2024, Spatial and temporal variations of vegetation cover on the central and eastern Tibetan Plateau since the Last glacial period, *Global and Planetary Change*, 240, 104536.
 
-21) Cindy De Jonge,  Francien Peterse,  Klaas G. J. Nierop,  Thomas M. Blattmann,  Marcelo Alexandre,  Salome Ansanay-Alex,  Thomas Austin,  Mathieu Babin,  Edouard Bard,  Thorsten Bauersachs,  Jerome Blewett,  Brenna Boehman,  Isla S. Castañeda,  Junhui Chen,  Martina L. G. Conti,  Sergio Contreras,  Julia Cordes,  Nina Davtian,  Bart van Dongen,  Bella Duncan,  Felix J. Elling,  Valier Galy,  Shaopeng Gao,  Jens Hefter,  Kai-Uwe Hinrichs,  Mitchell R. Helling,  Mariska Hoorweg,  Ellen Hopmans,  Juzhi Hou,  Yongsong Huang,  Arnaud Huguet,  Guodong Jia,  Cornelia Karger,  Brendan J. Keely,  Stephanie Kusch,  Hui Li,  **Liang, J.**,  Julius S. Lipp,  Weiguo Liu,  Hongxuan Lu,  Kai Mangelsdorf,  Hayley Manners,  Alfredo Martinez Garcia,  Guillemette Menot,  Gesine Mollenhauer,  B. David A. Naafs,  Sebastian Naeher,  Lauren K. O'Connor,  Ethan M. Pearce,  Ann Pearson,  Zhiguo Rao,  Marta Rodrigo-Gámiz,  Chris Rosendahl,  Frauke Rostek,  Rui Bao,  Prasanta Sanyal,  Florence Schubotz,  Wesley Scott,  Rahul Sen,  Appy Sluijs,  Rienk Smittenberg,  Ioana Stefanescu,  Jia Sun,  Paul Sutton,  Jess Tierney,  Eduardo Tejos,  Joan Villanueva,  Huanye Wang,  Josef Werne,  Masanobu Yamamoto,  Huan Yang,  Aifeng Zhou. 2024.Interlaboratory comparison of branched GDGT temperature and pH proxies using soils and lipid extracts. *Geochemistry, Geophysics, Geosystems*, 25, e2024GC011583.[link] (https://doi.org/10.1029/2024GC011583)
+21) Cindy De Jonge,  Francien Peterse,  Klaas G. J. Nierop,  Thomas M. Blattmann,  Marcelo Alexandre,  Salome Ansanay-Alex,  Thomas Austin,  Mathieu Babin,  Edouard Bard,  Thorsten Bauersachs,  Jerome Blewett,  Brenna Boehman,  Isla S. Castañeda,  Junhui Chen,  Martina L. G. Conti,  Sergio Contreras,  Julia Cordes,  Nina Davtian,  Bart van Dongen,  Bella Duncan,  Felix J. Elling,  Valier Galy,  Shaopeng Gao,  Jens Hefter,  Kai-Uwe Hinrichs,  Mitchell R. Helling,  Mariska Hoorweg,  Ellen Hopmans,  Juzhi Hou,  Yongsong Huang,  Arnaud Huguet,  Guodong Jia,  Cornelia Karger,  Brendan J. Keely,  Stephanie Kusch,  Hui Li,  **Liang, J.**,  Julius S. Lipp,  Weiguo Liu,  Hongxuan Lu,  Kai Mangelsdorf,  Hayley Manners,  Alfredo Martinez Garcia,  Guillemette Menot,  Gesine Mollenhauer,  B. David A. Naafs,  Sebastian Naeher,  Lauren K. O'Connor,  Ethan M. Pearce,  Ann Pearson,  Zhiguo Rao,  Marta Rodrigo-Gámiz,  Chris Rosendahl,  Frauke Rostek,  Rui Bao,  Prasanta Sanyal,  Florence Schubotz,  Wesley Scott,  Rahul Sen,  Appy Sluijs,  Rienk Smittenberg,  Ioana Stefanescu,  Jia Sun,  Paul Sutton,  Jess Tierney,  Eduardo Tejos,  Joan Villanueva,  Huanye Wang,  Josef Werne,  Masanobu Yamamoto,  Huan Yang,  Aifeng Zhou. 2024.Interlaboratory comparison of branched GDGT temperature and pH proxies using soils and lipid extracts. *Geochemistry, Geophysics, Geosystems*, 25, e2024GC011583.
 
 ### 2023
 
@@ -40,7 +50,7 @@ header:
 
 ### 2022
 
-17) **Liang, J.**, Guo, Y., Xie, H.*, Hou, J., 2022. Calibration and application of branched GDGTs to Tibetan lake sediments: the influence of temperature on the fall of the Guge Kingdom in Western Tibet, China. Paleoceanography and Paleoclimatology.[link] (https://doi.org/10.1029/2021PA004393)
+17) **Liang, J.**, Guo, Y., Xie, H.*, Hou, J., 2022. Calibration and application of branched GDGTs to Tibetan lake sediments: the influence of temperature on the fall of the Guge Kingdom in Western Tibet, China. Paleoceanography and Paleoclimatology.
 
 16) Vachula, R.S.*, **Liang, J.**, Sae-Lim, J., Xie, H., 2022. Ignition frequency and climate controlled Alaskan tundra fires during the Common Era. Quaternary Science Reviews, 280, 1
 
