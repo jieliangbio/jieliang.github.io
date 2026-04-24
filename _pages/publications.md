@@ -14,7 +14,7 @@ header:
 
 {% include base_path %}
 
-## {%In review / preprints / in press under%}
+
 
 
 
@@ -22,13 +22,12 @@ header:
 
 ### 2026
 
-26. **Liang, J**.*, Liu, X., Perfumo, A., Yang, L., Hou, J., Xie, H., Herzschuh, U., Chen, F., 2026. Mitigating edge effects in paleoclimate reconstructions: a comprehensive review and bias assessment of soil brGDGT-based temperature reconstructions. *Earth-Science Reviews* 274, 105393.
-
- 	25. Xie, H., Ma, S., Li, J., Dilanchi, E.F., Chen, S., Lahijani, H.A.K., Khormali, F., **Liang, J.***, Chen, J., 2026. Decadal hydroclimate fluctuations recorded in lake sediments from northeastern Iran over the past 1350 years. *Palaeogeography, Palaeoclimatology, Palaeoecology* 690, 113701.
+27. **Liang, J**.*, Liu, X., Perfumo, A., Yang, L., Hou, J., Xie, H., Herzschuh, U., Chen, F., 2026. Mitigating edge effects in paleoclimate reconstructions: a comprehensive review and bias assessment of soil brGDGT-based temperature reconstructions. *Earth-Science Reviews* 274, 105393.
+28. Xie, H., Ma, S., Li, J., Dilanchi, E.F., Chen, S., Lahijani, H.A.K., Khormali, F., **Liang, J.***, Chen, J., 2026. Decadal hydroclimate fluctuations recorded in lake sediments from northeastern Iran over the past 1350 years. *Palaeogeography, Palaeoclimatology, Palaeoecology* 690, 113701.
 
 ### 2025
 
-	24. Weiß, J.F., Herzschuh, U., Müller, J., **Liang, J.**, Vorrath, M.-E., Perfumo, A., Stoof-Leichsenring, K.R., 2025. Carbon drawdown by algal blooms during Antarctic Cold Reversal from sedimentary ancient DNA. *Nature Geoscience* 18, 901-908.
+	26. Weiß, J.F., Herzschuh, U., Müller, J., **Liang, J.**, Vorrath, M.-E., Perfumo, A., Stoof-Leichsenring, K.R., 2025. Carbon drawdown by algal blooms during Antarctic Cold Reversal from sedimentary ancient DNA. *Nature Geoscience* 18, 901-908.
 
 ### 2024
 
